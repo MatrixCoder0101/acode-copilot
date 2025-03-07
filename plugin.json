@@ -1,0 +1,13 @@
+{
+  "id":"acode.auto.pilot",
+  "name":"Autopilot",
+  "version":"1.0.0",
+  "readme":"readme.md",
+  "icon":"icon.png",
+  "files":[],
+  "author": {
+    "name":"Goutam Kumar",
+    "email":"contact@goutam.is-a.dev",
+    "github":"MatrixCoder0101"
+  }
+}

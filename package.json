@@ -1,0 +1,19 @@
+{
+  "name": "auto-pilot",
+  "version": "1.0.0",
+  "main": "src/main.ts",
+  "type": "module",
+  "scripts": {
+    "build": "node .vscode/build.ts"
+  },
+  "keywords": [],
+  "author": "Goutam Kumar",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "child_process": "latest",
+    "esbuild": "latest",
+    "esbuild-plugin-alias": "latest",
+    "jszip": "latest"
+  }
+}
