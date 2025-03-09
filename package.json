@@ -15,5 +15,8 @@
     "esbuild": "latest",
     "esbuild-plugin-alias": "latest",
     "jszip": "latest"
+  },
+  "dependencies": {
+    "ollama": "^0.5.14"
   }
 }
